@@ -6,3 +6,5 @@
     - and it will parse
     - and draw on the canvas
     - and provide a saving option that screenshots the canvas (?)
+  - pixel size can be changed, but quality will be lost similar to picture enlargers
+- 
