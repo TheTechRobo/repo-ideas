@@ -1,0 +1,8 @@
+- tkinter program that can turn a config file into an image
+  - each line is one pixel; it has the hex colour
+  - a blank line means to go down a line
+  - a SKIP value means the pixel should be skipped
+  - the ktinter program will use a for line in file block
+    - and it will parse
+    - and draw on the canvas
+    - and provide a saving option that screenshots the canvas (?)
